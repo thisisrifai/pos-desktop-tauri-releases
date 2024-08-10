@@ -1,3 +1,10 @@
 {
-    "version": "v0.0.1"
+    "version": "v0.0.1",
+    "notes": "First release",
+    "platforms": {
+        "windows-x86_64": {
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeHJWK3Y0eEtZM3F6eFFyYk1DVWtIeU9TOG9zRGI0L1V6Um5GKzB0UVZUeVd6Tm9ya25zYVJEaXpmQVdISWI1Yys4bmt5V2V2MDlXVWQxUE9vdnBlRGwrOWUydEZ1VVFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzIzMzI5NzA0CWZpbGU6Y29mZmVlLWRlc2t0b3BfMC4wLjFfeDY0X2VuLVVTLm1zaS56aXAKcUhpMFlpdzR6K21kUkt2NElZemxnMnN1ZGZRZkdEZWk4Ri9Pd0NPS1Q1VGxuTkRIbDJkOElCZnRscHFET25vQmNaem1VQ0VpbTJvZWNhZVVPNWpVQ0E9PQo=",
+            "url": "https://github.com/thisisrifai/pos-desktop-tauri-releases/releases/download/v0.0.1/coffee-desktop_0.0.1_x64_en-US.msi.zip"
+        }
+    }
 }
