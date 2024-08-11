@@ -3,7 +3,7 @@
     "notes": "Mise à jour de la version 0.0.7",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUa1IyWHdRZ09HdUYyK3YzaWdacTZEK0tkbkF1eklOY1V5bm9qZFRtMlYvc01GcHo2MzA4OWJaZ0lHQUJYWGh0dWYxRFdIbkdmTmlXR2NTV3k1cjdoTnBhMkwrN1Q4YVFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzIzMzg5NjEwCWZpbGU6Y29mZmVlLWRlc2t0b3BfMC4wLjdfeDY0X2VuLVVTLm1zaS56aXAKbGhpcnU2UFNrT1plWktubXJ5eUQ1aDE5U05KRFdtZG1uTUtYVkNyeGU0Vno4dnRsRkZxY0xzS3llTDIrOUVDQWZ1Z0F0cjhUb1dmK2x1d05UZVlmQkE9PQo=",
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUa1IyWHdRZ09HdUw5UUt6N0gybVdpNGNrdCtBL0pVZVRqSG5IdUJkRG1QNkgzU2VzR2hSRDVIYjBBcG9UNklwTVA3Y2NsNTRtam9rc2NWRG5NYWhnK0xqR0U1blBwQkFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzIzMzkwNzQyCWZpbGU6Y29mZmVlLWRlc2t0b3BfMC4wLjdfeDY0X2VuLVVTLm1zaS56aXAKRmV5cC9TVUdvTzEvQWlGVloza2ZNQzBEUGVBTzIxYlA3cXlKUUcxSGU4cW9VRzZXRml0OUY1K1BWaTFJQUFlcWxpY2Vwb0M5SVkvTE40emM3YTdsRGc9PQo=",
             "url": "https://github.com/thisisrifai/pos-desktop-tauri-releases/releases/download/v0.0.7/coffee-desktop_0.0.7_x64_en-US.msi.zip"
         }
     }
