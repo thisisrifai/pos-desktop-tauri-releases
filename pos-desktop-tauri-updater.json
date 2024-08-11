@@ -1,10 +1,10 @@
 {
-    "version": "v0.0.5",
-    "notes": "Mise à jour de la version 0.0.4 à 0.0.5",
+    "version": "v0.0.6",
+    "notes": "Mise à jour de la version 0.0.6",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUa1IyWHdRZ09HdU10amIxSGVraGgwbXFiMHFpRXZSZ05TeG9UNGloV1plMFRGQnFobzJySE45b3lNZUtzVTB5Rk05MlFtQlY1K1pOa0xYM1A0ZmRpMjY4eWdEUGt1T0E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzIzMzM2NDM4CWZpbGU6TWluYXNzYXR5IFBPU18wLjAuNF94NjRfZW4tVVMubXNpLnppcApPVFU4cU1CVUZrckk5QXZLdStCSk0zWTBwNjhET1lEZ29ST2ZJS250S3ZsaTA3L1k4L2NKQk5sSENCM2t3NXhCTVlSOUJuQmV1M1FNWkZKRWFWaHJBZz09Cg==",
-            "url": "https://github.com/thisisrifai/pos-desktop-tauri-releases/releases/download/v0.0.5/Minassaty.POS_0.0.5_x64_en-US.msi.zip"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUa1IyWHdRZ09HdU9mdUhPS1d6LzFJSE5hNitZNnJtTkxVUTlOR05mM0pZem5qNXVZdzBKb2dMMVpPMW5wekY1Wm1YRlloTC9ZVTJRNmNHNCtPMi9EUnFEWlRUaDEydWdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzIzMzYyNzUzCWZpbGU6Y29mZmVlLWRlc2t0b3BfMC4wLjZfeDY0X2VuLVVTLm1zaS56aXAKUDI4b2dHZEpBdy80enVLZjhLbVNsTTZwZWxTa3FUQjhJYzhEMmVzcnVsTTRrTjJqak8reUVrNXA0MVkwYTBtUlV2T2M2UnlkU3BIZmowV0ZUSGh6QVE9PQo=",
+            "url": "https://github.com/thisisrifai/pos-desktop-tauri-releases/releases/download/v0.0.6/coffee-desktop_0.0.6_x64_en-US.msi.zip"
         }
     }
 }
