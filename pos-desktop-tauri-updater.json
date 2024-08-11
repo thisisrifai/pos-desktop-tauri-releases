@@ -1,10 +1,10 @@
 {
-    "version": "v0.0.2",
-    "notes": "Test updater v1",
+    "version": "v0.0.3",
+    "notes": "Test updater v3",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeHJWK3Y0eEtZM2hhMXRZUnF5Y3pSNHdvZHlObytHQ3hBUnVWREhvNXZ1S3lSaW5scnBzT1VNUGplTzkxWkwvMGZmOWdBVFRqa2d4dzhFeERla0VqeWNWaElqR0oxaWdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzIzMzMyMTA4CWZpbGU6Y29mZmVlLWRlc2t0b3BfMC4wLjJfeDY0X2VuLVVTLm1zaS56aXAKQUI1Q3ROSmpJM3ZaOHFsZTdoamZGT0hpRHRZM0xSTnNmVHB2OUV6ZGtDMDdZbGMzeENQYTd4dXUwVU80NmoxbWF5OG1kRU9QZS9wZDcvWlhqc3J6QWc9PQo=",
-            "url": "https://github.com/thisisrifai/pos-desktop-tauri-releases/releases/download/0.0.2/coffee-desktop_0.0.2_x64_en-US.msi.zip"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeHJWK3Y0eEtZM3FwTkwwcUVWNmo0WHc0Yk1MN3ROQlRCcitrbHJGVlZSbDV0cHVtU240MFFHUXpwdzJrd0xGcEVmTE9UejRtaFhHMUVkSHYxMTV3SFVjQng0QVhKc2dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzIzMzM0MjQ3CWZpbGU6Y29mZmVlLWRlc2t0b3BfMC4wLjNfeDY0X2VuLVVTLm1zaS56aXAKLzJBdzIyYzZ6SFNLeHVjL3cwWEpKTTEwUm5XYXdURXhPbGY0Zk5YdkF6UzY1S2ZYR01rRGxkOHZGYW5UbHE2MW5UWGVYNXE1SlJ1aWNhQmo0bnJxQmc9PQo=",
+            "url": "https://github.com/thisisrifai/pos-desktop-tauri-releases/releases/download/v0.0.3/coffee-desktop_0.0.3_x64_en-US.msi.zip"
         }
     }
 }
