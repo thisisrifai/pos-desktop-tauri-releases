@@ -1,6 +1,6 @@
 {
-    "version": "v0.1.9",
-    "notes": "Changement : L'imprission instantané de ticket (plus de détails sur le repo)",
+    "version": "v0.1.8",
+    "notes": "Rollback",
     "platforms": {
         "windows-x86_64": {
             "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTNnBCb2YxOWMrd2toYms2N1JjNElpTFNvRjFvTDNvWnJYUGVhd0x0Z01tN0h6V0pZSHl5UllaQWh2Z3drQisyZDBVUmhiMDFLU2t5ai8wby9PaFBodnhDV1hMbzhrSEE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI0ODA4MzQzCWZpbGU6Tm9rdGEgLSBQT1MgU3lzdGVtXzAuMS45X3g2NF9lbi1VUy5tc2kuemlwCjlTTTY4K3EzOUtNNzVNUE51VFc3Z3RRU08wYm1BWGhtZDdLeThadEJ3cEt4NTA2YUd4dzJTSGdCSGxwZ1Rnc2JSM3NCa3VZTG15VVh2WVpiT013UkJBPT0K",
