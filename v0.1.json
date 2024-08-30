@@ -1,9 +1,9 @@
 {
-    "version": "v0.1.8",
-    "notes": "Rollback",
+    "version": "v0.1.9",
+    "notes": "Resolution de problème lier au données utilisateurs",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTNnBCb2YxOWMrd2toYms2N1JjNElpTFNvRjFvTDNvWnJYUGVhd0x0Z01tN0h6V0pZSHl5UllaQWh2Z3drQisyZDBVUmhiMDFLU2t5ai8wby9PaFBodnhDV1hMbzhrSEE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI0ODA4MzQzCWZpbGU6Tm9rdGEgLSBQT1MgU3lzdGVtXzAuMS45X3g2NF9lbi1VUy5tc2kuemlwCjlTTTY4K3EzOUtNNzVNUE51VFc3Z3RRU08wYm1BWGhtZDdLeThadEJ3cEt4NTA2YUd4dzJTSGdCSGxwZ1Rnc2JSM3NCa3VZTG15VVh2WVpiT013UkJBPT0K",
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTNnBCb2YxOWMrd3FpTG5FaEJBdmhnZnh3OUVxcHQ5dThtYzFCSjZNZy9OeTNScmQ3V09kQTBOOVFJQUladlpKbCtxV01JYlZoVmN5WlhZM1hiQmtTbi9RT2JwSlRFbFFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI0OTgzNTkzCWZpbGU6Tm9rdGEgLSBQT1MgU3lzdGVtXzAuMS45X3g2NF9lbi1VUy5tc2kuemlwCnd4M0JkeSt5NS93Z2dxd016OFd0YUYzT3VHN3Q1TzZmUFd0TlEyUXR3UW1PZW5xa1NkdU9jSUtoU1JRVFVoZTQvK2RXMG1HbkE1Z0Y0MTBsZGFnQ0RBPT0K",
             "url": "https://github.com/thisisrifai/pos-desktop-tauri-releases/releases/download/v0.1.9/Nokta.-.POS.System_0.1.9_x64_en-US.msi.zip"
         }
     }
