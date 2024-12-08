@@ -1,10 +1,10 @@
 {
-    "version": "v0.1.12",
-    "notes": "update to 0.1.12",
+    "version": "v0.1.14",
+    "notes": "update to 0.1.14",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTNnBCb2YxOWMrd3ZaZTVRaVE5NjRiQVlYVGxCNWVEZjRnWWhtbGlmLzF6dGlteWRYRS9jWnBJZXFEQ3RzODExRHQ0Uk1qc2doY2dKU3ZNRXN6RUZMcUlxVTFFMkV1amdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI1MjIwNzAxCWZpbGU6Tm9rdGEgLSBQT1MgU3lzdGVtXzAuMS4xMl94NjRfZW4tVVMubXNpLnppcApoY2pwYmdSOTYvdXpsbHFGS2I1RG11YkJBUklsSVdRN3EwNGZWMlBidHZhSVhZM2d3WFZJK0wwb2JEMmovQXplZG9rVmpqREppMC9DSnRjR25ZYzNEZz09Cg==",
-            "url": "https://github.com/thisisrifai/pos-desktop-tauri-releases/releases/download/v0.1.12/Nokta.-.POS.System_0.1.12_x64_en-US.msi.zip"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTNnBCb2YxOWMrd3VGbTdSYlc1d0tHUzJqRXRYTi9vWmYxbWlDRTdHZ0pPTk55K1lBbXFjVGFkdEpSQkljZnhCM3hlcytkNHpHUkU0d1FqZHJoMWk4NFVTcmlPMWM1c3c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzMzNzAwOTg3CWZpbGU6Tm9rdGEgLSBQT1MgU3lzdGVtXzAuMS4xNF94NjRfZW4tVVMubXNpLnppcAo5OGo4ZXpRNWxYNXJWUXVlUXIxT28xZHdteTZWNXFUaVVkdmdNajlDWlZWRTM2bXA0Y2RZbmd3K0hmWklLbVRiY3gyZituaTZ3cjRBSHVhWlFFTW9Edz09Cg==",
+            "url": "https://github.com/thisisrifai/pos-desktop-tauri-releases/releases/download/v0.1.14/Nokta.-.POS.System_0.1.14_x64_en-US.msi.zip"
         }
     }
 }
