@@ -3,7 +3,7 @@
     "notes": "update to 0.1.15",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTNnBCb2YxOWMrd3M1ckhoMXJob0ZMTDJONXRIcDE0S1BMT2gyS2Fic2xOU0dWRWhtQnloNjNaZnYxbEhaeGRJcGRmZytLY3k0dGtnTHVPc0RHbGJqaVFOSUI2ZXlXQXdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzMzOTIwMDYxCWZpbGU6Tm9rdGEgLSBQT1MgU3lzdGVtXzAuMS4xNV94NjQtc2V0dXAubnNpcy56aXAKZGQ4Yk1iMTJHYUZ6cFpqZFlKRktHQjF0TjlEK3I3QWZPZTZpRkFwSGhjdVZabE1iZEhqUkg3alZmZ09MQnBxb2FRNWxXRGFnd3pvTDAydUNqMGtTQUE9PQo=",
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTNnBCb2YxOWMrd2lsM0Y1Z2NFNGxQOWIwaGpFNE5ieEpwSnNwemloTDI0R2wvUkp1Z3BNc1c1SEZSR2hia3dkc0NGRnVPQ1AzdFVaRVBvcDE1Z1pQaWR5QlpmdW9TMkFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzMzOTIwMDYxCWZpbGU6Tm9rdGEgLSBQT1MgU3lzdGVtXzAuMS4xNV94NjRfZW4tVVMubXNpLnppcApFTlUrdFJ1ZHE3a2dIUU8xUlNnNUp1SnhhS0tHU0h6bFRPdjZROEVoNUM3VXpjMytESzI4SllRYXRhS0pUcGVRclNaZDVibkxFL3JCQXhNYjNQTnlDUT09Cg==",
             "url": "https://github.com/thisisrifai/pos-desktop-tauri-releases/releases/download/v0.1.15/Nokta.-.POS.System_0.1.15_x64_en-US.msi.zip"
         }
     }
