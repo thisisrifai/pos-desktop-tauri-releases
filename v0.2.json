@@ -1,10 +1,10 @@
 {
-    "version": "v2.0.6",
-    "notes": "Resolution du bug de l'impression du ticket de caisse/ حل مشكلة طباعة الفاتورة",
+    "version": "v2.0.7",
+    "notes": "Fix sync issue with some improvements",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTNnBCb2YxOWMrd2k5cU5lQ0cza2s5WmNleG8zRURjL3B4ZGxLQ1psQVB3c2Ntek00MC85bDgvVlFJNG5tbThlQ1F1cml6VUpHcjVxT0hVMUY0U2Y5NXZuQmN6S2pNWlF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ3Nzc5MjI3CWZpbGU6Tm9rdGEgQXBwXzIuMC42X3g2NF9lbi1VUy5tc2kKeFF1dzBrT0U0WUJYejdJQlFvb0RKemNhWi8vTldjalJ5OEJIUnZQZCtHL3RPS2Rzc3I1N0xXakVtS0JRRk8wMFNrYkg3QWVCSHpIVjVqU1dkWFJmRGc9PQo=",
-            "url": "https://github.com/thisisrifai/pos-desktop-tauri-releases/releases/download/v2.0.6/Nokta.App_2.0.6_x64_en-US.msi"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTNnBCb2YxOWMrd3NLcTZkczZyUkVFVTlZQUVSQklVSHVZcnAyWElJY2V5STEvUitEMHVQTkVMb1dKRXFPVGVUUElyNEhlMWJCbFM1VjBzcXUvanY4RUNkdjUxSWM5bkF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUyMzM5MDAxCWZpbGU6Tm9rdGEgQXBwXzIuMC43X3g2NF9lbi1VUy5tc2kKWjgxZElDQmdxTlpHN2RWQ3dkWmxuVklWNXRYYlJtNGpSbjAyTVpmTW5TQVYzcnhWV0RMR3cyWnp1cThXdko1aVZtTGtwaEhGQkNmVlR6K0RUcTRJQmc9PQo=",
+            "url": "https://github.com/thisisrifai/pos-desktop-tauri-releases/releases/download/v2.0.7/Nokta.App_2.0.7_x64_en-US.msi"
         }
     }
 }
