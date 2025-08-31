@@ -3,7 +3,7 @@
     "notes": "Minor improvements and bug fixes",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTNnBCb2YxOWMrd3IvOEJYdW9sVXdmejZGakF4Z0tpelNIMGprbjlrTWFESkxmTzZmL2Y2OHZkTG5lb2xIQVJJVUJUdFhiQ0s4N1poWDV0ODVhRnJuT3lJTWxKZnRqSndNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU2NjYwNTMzCWZpbGU6Tm9rdGEgQXBwXzIuMC4xMV94NjRfZW4tVVMubXNpCk55UEd0SkNWTnErN2V6aVErcVVEeit2cmdsK2pVYzVvekpZRTVoRHdTY1M2MGFDYzZ0QmZGdUVvREw5R0JKYkZqUmZjZy9WV0k3MC93bHpscU4vVEFnPT0K",
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTNnBCb2YxOWMrd3Zndm9ZT1ZIUnRUakFXVXQ3dE05eXZPNlJEVDNxSzlVU3JEdGViemREckNTeHJJNTNVcnpkenk4Y3p0cEUwcVU1NzRSL1Z6ZDlWOGJoLzdUL3VkdWdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU2NjYxNjA4CWZpbGU6Tm9rdGEgQXBwXzIuMC4xMV94NjRfZW4tVVMubXNpCjVKejBXeENkd1NDOGJwV0hyQmFjTzl4STBYeWVQcUw1ejJvZURpVTZUc0JJdU5DSHh3YVEyM3RYY0NBNjFlUGZ1M1RvZFBqVFJTMEFRb1JZM25FZkFnPT0K",
             "url": "https://github.com/thisisrifai/pos-desktop-tauri-releases/releases/download/v2.0.11/Nokta.App_2.0.11_x64_en-US.msi"
         }
     }
