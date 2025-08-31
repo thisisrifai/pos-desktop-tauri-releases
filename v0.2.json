@@ -1,10 +1,10 @@
 {
-    "version": "v2.0.10",
-    "notes": "Fix timing issue with some improvements add more in sync interval",
+    "version": "v2.0.11",
+    "notes": "Minor improvements and bug fixes",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTNnBCb2YxOWMrd2pxeWpmVFVDUkV5N1R5NXlWZHF0TzhodXBxbXdkekZVSTZRWnpHMUVHOERNaC91SFFJQ3J1Rk1SaWVRd05pNFBXemNTd3BZSHVqYXQvcjBpNXpTN0E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU2NDY0ODQ2CWZpbGU6Tm9rdGEgQXBwXzIuMC4xMF94NjRfZW4tVVMubXNpCm5JL2g4Rk9wVUtxMU1GUEJWbDJkT1VwaFAwenFidmJoTldITVJ1dE9EbituMFhqVVZwYmhLVEwzUWVmZ24wTDdndHVZeG9sUmloS1FmM09pMWZ1dEJ3PT0K",
-            "url": "https://github.com/thisisrifai/pos-desktop-tauri-releases/releases/download/v2.0.10/Nokta.App_2.0.10_x64_en-US.msi"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTNnBCb2YxOWMrd3IvOEJYdW9sVXdmejZGakF4Z0tpelNIMGprbjlrTWFESkxmTzZmL2Y2OHZkTG5lb2xIQVJJVUJUdFhiQ0s4N1poWDV0ODVhRnJuT3lJTWxKZnRqSndNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU2NjYwNTMzCWZpbGU6Tm9rdGEgQXBwXzIuMC4xMV94NjRfZW4tVVMubXNpCk55UEd0SkNWTnErN2V6aVErcVVEeit2cmdsK2pVYzVvekpZRTVoRHdTY1M2MGFDYzZ0QmZGdUVvREw5R0JKYkZqUmZjZy9WV0k3MC93bHpscU4vVEFnPT0K",
+            "url": "https://github.com/thisisrifai/pos-desktop-tauri-releases/releases/download/v2.0.11/Nokta.App_2.0.11_x64_en-US.msi"
         }
     }
 }
